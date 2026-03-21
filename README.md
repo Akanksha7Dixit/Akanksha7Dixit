@@ -45,7 +45,7 @@
 
 ## 🔥 GitHub Streak
 
-![Streak](https://streak-stats.demolab.com?user=Akanksha7Dixite\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Akanksha7Dixit\&theme=tokyonight)
 
 ---
 
@@ -55,11 +55,6 @@
 
 ---
 
-## 🏆 Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Akanksha7Dixit\&theme=tokyonight)
-
----
 
 ## 🐍 Contribution Snake
 
