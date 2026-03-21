@@ -1,3 +1,8 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=220\&section=header\&text=Akanksha%20Dixit\&fontSize=42\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35)
+
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Problem Solver</h3>
+
+
 # 👋 Hi, I'm Your Name
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Cool+Projects🚀)
@@ -12,6 +17,10 @@
 * ⚡ Love solving real-world problems
 
 ---
+## 💡 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
 
 ## 🌐 Connect With Me
 
