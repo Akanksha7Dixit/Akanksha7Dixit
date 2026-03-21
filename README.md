@@ -58,8 +58,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Akanksha7Dixit/your-username/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/Akanksha7Dixit/Akanksha7Dixit/output/github-contribution-grid-snake.svg)
 ---
 
 ## 👀 Visitor Count
