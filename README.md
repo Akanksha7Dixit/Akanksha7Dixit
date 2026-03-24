@@ -17,8 +17,6 @@ I am a passionate **MERN Stack Developer** with a strong foundation in
 * 🧠 Solved **300+ DSA problems on LeetCode**
 * ⚡ Focused on writing clean, scalable, and efficient code
 * 🚀 Interested in backend development & system design
-* 🎯 Goal: Become a top software engineer
-
 ---
 
 ## 🛠️ Tech Stack
@@ -80,26 +78,18 @@ I am a passionate **MERN Stack Developer** with a strong foundation in
 * Reduced waiting time with smart queue handling
 * JWT authentication & real-time queue updates
 * 🌐 Live: https://qflow.onrender.com
-
 ---
-
 ### 🔗 URL Shortener
-
 * Convert long URLs into short shareable links
 * Track visits and manage links using MongoDB
-
 ---
-
 ## 🏆 Achievements
-
 * 🌟 Solved **300+ DSA problems on LeetCode**
 * 💻 Contributed to **GirlScript Summer of Code (GSSoC)**
 * 🎓 Completed Full Stack Development (MERN) course
 * 🚀 Built and deployed multiple full-stack projects
 * 🔗 Strong understanding of REST APIs & system flow
-
 ---
-
 ## 💡 Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
@@ -108,7 +98,7 @@ I am a passionate **MERN Stack Developer** with a strong foundation in
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/akankshadixit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/akanksha-dixit-b44ba32a4/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Akanksha7Dixit)
 
 ---
