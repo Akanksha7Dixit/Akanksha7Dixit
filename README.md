@@ -43,8 +43,6 @@ I am a passionate **MERN Stack Developer** with a strong foundation in
 
 ---
 
-
-
 ## 🔥 GitHub Streak
 
 ![Streak](https://streak-stats.demolab.com?user=Akanksha7Dixit\&theme=tokyonight)
@@ -62,29 +60,8 @@ I am a passionate **MERN Stack Developer** with a strong foundation in
 ![Snake animation](https://raw.githubusercontent.com/Akanksha7Dixit/Akanksha7Dixit/output/github-contribution-grid-snake.svg)
 
 ---
-
-## 🚀 Featured Projects
-
-### 🛒 GreenMart — Grocery E-Commerce App
-
-* MERN stack application with authentication & cart system
-* Implemented JWT-based secure login
-* Built REST APIs for products, orders & cart
-
----
-
-### 📊 QFlow — Queue Management System
-
-* Reduced waiting time with smart queue handling
-* JWT authentication & real-time queue updates
-* 🌐 Live: https://qflow.onrender.com
----
-### 🔗 URL Shortener
-* Convert long URLs into short shareable links
-* Track visits and manage links using MongoDB
----
 ## 🏆 Achievements
-* 🌟 Solved **300+ DSA problems on LeetCode**
+* 🌟 Solved **400+ DSA problems on LeetCode**
 * 💻 Contributed to **GirlScript Summer of Code (GSSoC)**
 * 🎓 Completed Full Stack Development (MERN) course
 * 🚀 Built and deployed multiple full-stack projects
