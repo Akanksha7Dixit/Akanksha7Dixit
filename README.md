@@ -1,13 +1,7 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=220\&section=header\&text=Akanksha%20Dixit\&fontSize=42\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35)
-
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:1f4037,100:99f2c8&height=200&section=header&text=Akanksha%20Dixit&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Building%20Scalable%20Solutions%20%7C%20DSA%20%7C%20C%2B%2B&descAlign=50&descAlignY=70)
 <h3 align="center">🚀 MERN Stack Developer | DSA Enthusiast | Problem Solver</h3>
 
 ---
-
-## 👩‍💻 🚀 Turning ideas into scalable web apps — I’m Akanksha Dixit
-
----
-
 ## 🚀 About Me
 
 I am a passionate **MERN Stack Developer** with a strong foundation in
@@ -42,22 +36,9 @@ I am a passionate **MERN Stack Developer** with a strong foundation in
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 
 ---
-
-## 🔥 GitHub Streak
-
-![Streak](https://streak-stats.demolab.com?user=Akanksha7Dixit\&theme=tokyonight)
-
----
-
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akanksha7Dixit\&theme=tokyo-night)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Akanksha7Dixit/Akanksha7Dixit/output/github-contribution-grid-snake.svg)
 
 ---
 ## 🏆 Achievements
@@ -67,11 +48,6 @@ I am a passionate **MERN Stack Developer** with a strong foundation in
 * 🚀 Built and deployed multiple full-stack projects
 * 🔗 Strong understanding of REST APIs & system flow
 ---
-## 💡 Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
@@ -79,13 +55,14 @@ I am a passionate **MERN Stack Developer** with a strong foundation in
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Akanksha7Dixit)
 
 ---
+## 🔥 GitHub Streak
 
+![Streak](https://streak-stats.demolab.com?user=Akanksha7Dixit\&theme=tokyonight)
+
+---
 ## 👀 Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Akanksha7Dixit\&color=blue)
 
 ---
 
-## ✨ Quote
-
-> "Code. Learn. Build. Repeat." 🚀
