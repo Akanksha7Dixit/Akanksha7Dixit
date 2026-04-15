@@ -15,27 +15,19 @@ I am a passionate **MERN Stack Developer** with a strong foundation in
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-
 <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap" />
 
-### ⚙️ Backend
-
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ Database
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+
+---
 
 ### 🧠 Programming & DSA
 
 <img src="https://skillicons.dev/icons?i=cpp,python,c" />
 
-### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
-
----
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akanksha7Dixit\&theme=tokyo-night)
