@@ -8,7 +8,7 @@ I am a passionate **MERN Stack Developer** with a strong foundation in
 **Data Structures & Algorithms using C++**.
 
 * 💻 Skilled in building full-stack applications using MongoDB, Express.js, React, and Node.js
-* 🧠 Solved **300+ DSA problems on LeetCode**
+* 🧠 Solved **600+ DSA problems on LeetCode**
 * ⚡ Focused on writing clean, scalable, and efficient code
 * 🚀 Interested in backend development & system design
 ---
@@ -34,7 +34,7 @@ I am a passionate **MERN Stack Developer** with a strong foundation in
 
 ---
 ## 🏆 Achievements
-* 🌟 Solved **400+ DSA problems on LeetCode**
+* 🌟 Solved **600+ DSA problems on LeetCode**
 * 💻 Contributed to **GirlScript Summer of Code (GSSoC)**
 * 🎓 Completed Full Stack Development (MERN) course
 * 🚀 Built and deployed multiple full-stack projects
