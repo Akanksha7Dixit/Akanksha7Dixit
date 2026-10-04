@@ -30,9 +30,9 @@ I am a passionate **MERN Stack Developer** with a strong foundation in
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akanksha7Dixit\&theme=tokyo-night)
+[![Akanksha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akanksha7Dixit&theme=tokyo-night)](https://github.com/Akanksha7Dixit)---
 
----
+
 ## 🏆 Achievements
 * 🌟 Solved **600+ DSA problems on LeetCode**
 * 💻 Contributed to **GirlScript Summer of Code (GSSoC)**
